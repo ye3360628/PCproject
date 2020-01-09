@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+  <link rel="stylesheet" href="https://unpkg.com/swiper/css/swiper.css">  
+<link rel="stylesheet" href="https://unpkg.com/swiper/css/swiper.min.css">    
+<link rel="stylesheet" href="css/watch_1.css">
+<script src="js/jquery-1.11.3.js"></script>
+</head>
+<body>
+  <script src="https://unpkg.com/swiper/js/swiper.js"> </script>  
+<script src="https://unpkg.com/swiper/js/swiper.min.js"> </script>
+  <div id="head1">
+    <div>
+      <p>佛阳子集团旗下购物商城！全国服务电话：400-880-9930</p>
+      <ul>
+        <li><a href="reg.html">请登录</a></li>
+        <li><a href="reg_1.html">免费注册</a></li>
+        <li>
+          <a href="" class="head3">我的聚奢</a> 
+          <div class="head2">
+            <a href="" id="myself1">个人中心</a>
+            <div class="head4" id="head4_1">
+              <a href="reg.html">登录</a>
+              <a href="reg_1.html">注册</a>
+              <a href="" class="c1">购物车</a>
+              <a href="" class="c1">关于我们</a>
+          </div>
+            <div id="head4_2">
+            <a href="">我的订单</a>
+            <a href="">购物车</a>
+            <a href="">我的收藏</a>
+            <a href="">优惠券</a>
+          </div>
+          </div>
+        </li>
+        <li><a href="" class="head5">购物车</a></li>
+        <li><a href="">在线客服</a></li>
+        <li><a href="">关于我们</a></li>
+      </ul>
+    </div>
+  </div>
+  <div id="head_1">
+    <div class="head_2">
+      <table></table>
+      <p>股权交易代码：691333</p>
+    </div>
+    <div class="head_3">
+      <div class="swiper-container">
+        <div class="swiper-wrapper">
+            <div class="swiper-slide box1"><img  src="img/topicon4.png"></div>
+            <div class="swiper-slide box2" ><img  src="img/topicon2.jpg"></div>
+            <div class="swiper-slide box3"><img   src="img/topicon3.png"></div>
+            <div class="swiper-slide box3"><img   src="img/topicon1.jpg"></div>
+        </div>  
+    </div>   
+    </div>
+   <div class="head_4" >
+      <input type="text" style="height:30px;width:400px;margin-top:20px;margin-left:30px;" placeholder="请输入你要查找的商品">
+    </div>
+    <div class="head_5">          
+    </div>
+  </div>
+  <div class="foot">
+    <ul>
+      <li><a href="">包袋</a></li>
+      <li><a href="">腕表</a></li>
+      <li><a href="">钻石</a></li>
+      <li><a href="">首饰</a></li>
+      <li><a href="">服饰</a></li>
+      <li><a href="">数码</a> </li>
+      <li><a href="">估价</a> </li>
+      <li><a href="">寄售</a> </li>
+      <li><a href="">求购</a> </li>
+      <li><a href="">品牌</a> </li>
+      <li><a href="">维修养护</a> </li>
+      <li><a href="">回收</a> </li>
+      <li><a href="">培训中心</a> </li>
+    </ul>
+  </div>
+  <div class="Prev">
+    <div style="background-color:#F1F0F0;width: 100px;height: 50px;"></div>
+    <div class="detail">
+      <div class="prev">  
+          <div class="bigimg">
+            <div style="width: 500px;height: 500px; position: absolute;top:0;left: 0; z-index: 999;"bigimage ></div>
+            <img src="../img/t-b-2.jpg" bigimage1 alt="" width="500px" height="500px">  
+            <div id="mask" class=""></div>
+        </div>  
+        <div class="smallimg">
+          <div class="smallimg1">
+            <ul style="display: flex;">
+              <li><img src="../img/t-b-2.jpg" smallimage alt=""></li>
+              <li><img src="../img/t-b-3.jpg" smallimage alt=""></li>
+              <li><img src="../img/t-b-1.jpg" smallimage alt=""></li>
+            </ul>
+          </div>         
+        </div>
+      </div> 
+      <div class="rightimg">
+           <img src="" alt="" mirror> 
+      </div> 
+      <script src="js/zoom.js">
+      </script>
+      <div class="product">
+        <div class="product1">
+          <h4 class="h4">（新系统已售）天梭经典系列T035.410.11.031.00男士石英腕表</h4>
+        </div>
+        <table class="product-tab">
+          <tr>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;售价</td>
+            <td><h2 class="h1">¥1280.00</h2></td>
+          </tr>
+          <tr>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;附件</td>
+            <td>包装</td>
+          </tr>
+          <tr>
+            <td>服务承诺</td>
+            <td>顺丰包邮  假一赔三 30小时退货</td>
+          </tr>
+          <tr class="t1">
+            <td></td>
+            <td><a href="" >加入购物车</a> &nbsp;&nbsp; <a href="" class="t1_a">预约到店</a> </td>
+          </tr>
+          <tr>
+            <td></td>
+            <td> <a href="" class="t2_a"> [ 在线客服 ]</a> TEL：400-880-9930</td>
+          </tr>
+          <tr>
+            <td>温馨提示</td>
+            <td>本商品暂不支持货到付款！ 本商品不支持使用优惠券</td>
+          </tr>
+          <tr>
+            <td>分享</td>
+            <td>
+              <a href=""><i class="weixin"></i></a>
+              <a href=""><i class="qq"></i></a>
+              <a href=""><i class="weibo"></i></a>
+              <a href=""><i class="kongjian"></i></a>
+            </td> 
+          </tr>
+        </table>  
+      </div>  
+    </div>
+  </div>
+<script src="js/watch_1.js"></script> 
+  <script>        
+    var mySwiper = new Swiper ('.swiper-container', {
+      direction: 'horizontal', // 垂直切换选项
+      loop: true, // 循环模式选项
+      autoplay:true,  
+    })       
+    </script>
+</body>
+</html>
+
+
+
+

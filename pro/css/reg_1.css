@@ -1,0 +1,145 @@
+html{
+  font-size:20px;
+  }
+  *{
+    margin:0;
+    padding: 0;
+  }
+  #head1{
+    width: 100%;
+    height:1.5rem;
+    background:#e8e8e8;
+  }
+  #head1>div{
+    width:60.8rem;height:1.5rem;
+    margin:0 auto;
+    line-height: 1.5rem;
+  }
+  #head1 p{
+    float:left;
+    color:#666;
+    font-size:0.6rem;
+  }
+  #head1 p:hover{
+    cursor:pointer;
+  }
+  a{
+    text-decoration: none;
+  }
+  .head_1{
+    float:right;
+  }
+  .head_1 a{
+    color:#666;
+    padding-left:0.3rem ;
+    padding-right:0.3rem ;
+    font-size: 0.6rem;
+    margin-bottom: 0.2rem;
+  }
+  #body1{
+    height: 28rem;
+    width: 100%;
+    background: url(../img/nbg1.png);
+    position: relative;
+    border:3px solid #e1e1e1;
+    margin-top:4rem
+  }
+  #body2{
+    width:20rem;
+    height:21rem;
+    background:#fff ;
+    position: absolute;
+    left:60rem;
+    top:3rem;
+    border:3px solid #e8e8e8;
+  }
+  .in1{
+    width:10.5rem;
+    height:1.6rem;
+    margin-top:1.8rem;
+  }
+  .in2{
+    display:inline-block;
+    background:#e8e8e8;
+    width: 3.5rem;
+    height:1.7rem;
+    border:1px solid #999;
+    border-right: none;
+    margin-left:2.5rem;
+    font-size: 0.7rem;
+    text-align: center;
+    line-height: 1.7rem;
+  }
+  .in3{
+    width:7.6rem;
+    height:1.6rem;
+    margin-top:1.7rem;
+    margin-left:2.5rem;
+  }
+  .in4{
+    position: absolute;
+    left:10.5rem;
+    top:8.9rem
+  }
+  #body2 p{
+    font-size: 0.7rem;
+    position: absolute;
+    left:13.5rem;
+    margin-top:0.3rem;
+  }
+  .reg{
+    display: block;
+    position: absolute;
+    top:16rem;
+    left:2.5rem;
+    width: 14rem;
+    height:2rem;
+    font-size: 0.7rem;
+    color:#fff;
+    background:rgb(184, 172, 15);
+    border: none;
+    text-align: center;
+    line-height: 2rem;
+  }
+  .reg_1,.reg_2{
+    font-size: 0.74rem; 
+    color: #000;;
+  }
+  .reg_1{
+    position: absolute;
+    top:13rem;
+    left:2.5rem;
+  }
+  .reg_2{
+    position: absolute;
+    top:18.4rem;
+    left:10rem;
+  }
+  .in5{
+  display:block;
+  width:4.2rem;
+    height:1.6rem;
+  border-radius:4px;
+  color:#fff;
+  border:1px solid #000;
+  padding:0px;
+  font-size:10px;
+  line-height:1.6rem;
+  text-align:center;
+  background: #999; 
+  position: absolute;
+  left:12.5rem;
+  top:12.5rem
+  }
+  .reg_p{
+    display: none;
+    color:red;
+  } 
+  .success{
+    display:inline;
+    color:green;  
+  }
+  .fail{
+    display:inline;
+    color:red;   
+  }
